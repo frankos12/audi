@@ -1,0 +1,4 @@
+body { background-color: darkgrey; color: white; font-family: Arial; text-align: center; }
+nav a { margin: 10px; color: indianred; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+img { width: 400px; max-width: 90%; margin: 10px 0; }
